@@ -1,0 +1,1 @@
+﻿dotnet Competence-Days-Game.Backend.dll --urls=https://localhost:44365;http://localhost:438922
